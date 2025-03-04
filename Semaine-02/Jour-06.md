@@ -1,6 +1,6 @@
 # Objectifs journaliers
 
-## Mardi 04/03/2025 :
+## Mardi(Gras) 04/03/2025 :
 
 ### Git fondamentaux avancés
 
