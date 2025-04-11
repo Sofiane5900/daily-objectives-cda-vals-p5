@@ -1,23 +1,23 @@
 # Jour 33 - Vendredi 11 avril 2025
 
 ## Objectifs du jour
-- [ ] Finaliser les modèles (MCD, MLD, MPD)
-- [ ] Préparer la documentation complète
-- [ ] Présenter les modèles conçus
+- [x] Finaliser les modèles (MCD, MLD, MPD)
+- [x] Préparer la documentation complète
+- [x] Présenter les modèles conçus
 
 ### Finalisation des modèles
-- [ ] Réviser et améliorer les modèles
-  - [ ] Valider la cohérence entre MCD, MLD et MPD
-  - [ ] Vérifier la couverture des besoins
-  - [ ] Affiner les derniers détails
-  - [ ] S'assurer de la qualité globale
+- [x] Réviser et améliorer les modèles
+  - [x] Valider la cohérence entre MCD, MLD et MPD
+  - [x] Vérifier la couverture des besoins
+  - [x] Affiner les derniers détails
+  - [x] S'assurer de la qualité globale
 
 ### Documentation du projet
-- [ ] Préparer la documentation technique
-  - [ ] Rédiger le dictionnaire de données
-  - [ ] Documenter les choix de conception
-  - [ ] Créer les schémas et diagrammes
-  - [ ] Expliquer la logique des modèles
+- [x] Préparer la documentation technique
+  - [x] Rédiger le dictionnaire de données
+  - [x] Documenter les choix de conception
+  - [] Créer les schémas et diagrammes
+  - [] Expliquer la logique des modèles
 
 ### Présentation du projet
 - [ ] Préparer la présentation finale
