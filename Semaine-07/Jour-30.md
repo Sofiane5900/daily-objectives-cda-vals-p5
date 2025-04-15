@@ -3,7 +3,7 @@
 ## Mardi 08/04/2025 :
 
 ### Approfondissement du MCD (Modèle Conceptuel de Données)
-- [ ] Maîtriser les concepts avancés du MCD
+- [] Maîtriser les concepts avancés du MCD
   - [ ] Les associations réflexives
   - [ ] Les sous-types et sur-types (héritage)
   - [ ] Les contraintes d'intégrité
