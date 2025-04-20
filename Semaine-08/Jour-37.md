@@ -46,46 +46,46 @@
 - [x] Requêtes de sélection (SELECT)
   - [x] Structure de base
     - [x] SELECT, FROM, WHERE
-    - [ ] ORDER BY, LIMIT
-    - [ ] GROUP BY, HAVING
-  - [ ] Opérateurs de comparaison
-    - [ ] =, <>, >, <, >=, <=
-    - [ ] BETWEEN, IN, LIKE
-    - [ ] IS NULL, IS NOT NULL
-  - [ ] Fonctions d'agrégation
-    - [ ] COUNT, SUM, AVG
-    - [ ] MIN, MAX
+    - [x] ORDER BY, LIMIT
+    - [] GROUP BY, HAVING
+  - [x] Opérateurs de comparaison
+    - [x] =, <>, >, <, >=, <=
+    - [x] BETWEEN, IN, LIKE
+    - [x] IS NULL, IS NOT NULL
+  - [x] Fonctions d'agrégation
+    - [x] COUNT, SUM, AVG
+    - [x] MIN, MAX
 
-- [ ] Jointures de tables
-  - [ ] INNER JOIN
-  - [ ] LEFT JOIN
-  - [ ] RIGHT JOIN
-  - [ ] Cas d'usage typiques
-  - [ ] Bonnes pratiques
+- [x] Jointures de tables
+  - [x] INNER JOIN
+  - [x] LEFT JOIN
+  - [x] RIGHT JOIN
+  - [x] Cas d'usage typiques
+  - [x] Bonnes pratiques
 
-- [ ] Insertion de données
-  - [ ] INSERT INTO
-    - [ ] Insertion simple
-    - [ ] Insertion multiple
-    - [ ] INSERT INTO SELECT
-  - [ ] Gestion des erreurs courantes
+- [x] Insertion de données
+  - [x] INSERT INTO
+    - [x] Insertion simple
+    - [x] Insertion multiple
+    - [x] INSERT INTO SELECT
+  - [x] Gestion des erreurs courantes
 
-- [ ] Modification de données
-  - [ ] UPDATE
-    - [ ] Mise à jour simple
-    - [ ] Avec conditions WHERE
-    - [ ] Avec jointures
-  - [ ] Bonnes pratiques de sécurité
+- [x] Modification de données
+  - [x] UPDATE
+    - [x] Mise à jour simple
+    - [x] Avec conditions WHERE
+    - [x] Avec jointures
+  - [x] Bonnes pratiques de sécurité
 
-- [ ] Suppression de données
-  - [ ] DELETE
-    - [ ] Avec conditions
-    - [ ] Bonnes pratiques
-  - [ ] TRUNCATE
-    - [ ] Différence avec DELETE
-    - [ ] Précautions à prendre
+- [x] Suppression de données
+  - [x] DELETE
+    - [x] Avec conditions
+    - [x] Bonnes pratiques
+  - [x] TRUNCATE
+    - [x] Différence avec DELETE
+    - [x] Précautions à prendre
 
-- [ ] Exercices pratiques
+- [ x Exercices pratiques
   - [ ] Requêtes de sélection complexes
   - [ ] Manipulation de données réelles
   - [ ] Cas pratiques métier
