@@ -81,11 +81,10 @@
   - [x] DELETE
     - [x] Avec conditions
     - [x] Bonnes pratiques
-  - [x] TRUNCATE
-    - [x] Différence avec DELETE
-    - [x] Précautions à prendre
+  - [] TRUNCATE
+    - [] Différence avec DELETE
 
-- [ x Exercices pratiques
+- [ ] Exercices pratiques
   - [ ] Requêtes de sélection complexes
   - [ ] Manipulation de données réelles
   - [ ] Cas pratiques métier
