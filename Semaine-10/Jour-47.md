@@ -45,6 +45,6 @@
   - [x] Installer et configurer Maven sur son environnement
   - [x] Savoir lire un fichier pom.xm
 - [ ] Exercices pratiques
-  - [ ] TP fourni
-  - [ ] Exercice Devinette
-  - [ ] Exercice Calculatrice
+  - [x] TP fourni
+  - [x] Exercice Devinette
+  - [x] Exercice Calculatrice
