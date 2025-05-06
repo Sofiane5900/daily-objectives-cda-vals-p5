@@ -19,7 +19,7 @@
 
 - [x] Installation et configuration des outils
   - [x] pgAdmin 4
-    - [x] Installation
+    - [x] Installation test de l'application
     - [x] Configuration
     - [x] Première connexion
     - [x] Tour d'horizon de l'interface
