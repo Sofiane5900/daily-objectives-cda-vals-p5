@@ -17,11 +17,11 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
   - [x] Comprendre le mapping des ports
   - [x] Gérer les variables d'environnement
 
-- [ ] Gestion des images Docker
-  - [ ] Comprendre la structure des images
-  - [ ] Télécharger des images depuis Docker Hub
-  - [ ] Lister et supprimer des images
-  - [ ] Comprendre le système de tags
+- [x] Gestion des images Docker
+  - [x] Comprendre la structure des images
+  - [x] Télécharger des images depuis Docker Hub
+  - [x] Lister et supprimer des images
+  - [x] Comprendre le système de tags
 
 - [ ] Travaux Pratiques
   - [ ] Déployer une application web simple
