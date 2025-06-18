@@ -17,11 +17,11 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
     - [x] EXPOSE
     - [x] CMD et ENTRYPOINT
 
-- [ ] Construction d'images
-  - [ ] Utiliser la commande docker build
-  - [ ] Comprendre le système de cache
-  - [ ] Optimiser la taille des images
-  - [ ] Utiliser le multi-stage build
+- [x] Construction d'images
+  - [x] Utiliser la commande docker build
+  - [x] Comprendre le système de cache
+  - [x] Optimiser la taille des images
+  - [x] Utiliser le multi-stage build
 
 - [ ] Bonnes pratiques
   - [ ] Sécurité des images
