@@ -6,16 +6,16 @@
 
 Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
 
-- [ ] Découverte du Dockerfile
-  - [ ] Comprendre la structure d'un Dockerfile
-  - [ ] Maîtriser les instructions de base
-    - [ ] FROM
-    - [ ] WORKDIR
-    - [ ] COPY et ADD
-    - [ ] RUN
-    - [ ] ENV
-    - [ ] EXPOSE
-    - [ ] CMD et ENTRYPOINT
+- [x] Découverte du Dockerfile
+  - [x] Comprendre la structure d'un Dockerfile
+  - [x] Maîtriser les instructions de base
+    - [x] FROM
+    - [x] WORKDIR
+    - [x] COPY et ADD
+    - [x] RUN
+    - [x] ENV
+    - [x] EXPOSE
+    - [x] CMD et ENTRYPOINT
 
 - [ ] Construction d'images
   - [ ] Utiliser la commande docker build
