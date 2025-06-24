@@ -4,13 +4,13 @@
 
 ### CI/CD et Introduction à GitHub Actions
 
-Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-github-actions)
+Ressource : [Formation GitHub Actions](https://github.  com/HachemiH/formation-github-actions)
 
-- [ ] Introduction aux fondamentaux CI/CD
-  - [ ] Comprendre les principes de l'Intégration Continue
-  - [ ] Comprendre les principes du Déploiement Continu
-  - [ ] Identifier les avantages de la CI/CD
-  - [ ] Découvrir les principaux outils du marché
+- [x] Introduction aux fondamentaux CI/CD
+  - [x] Comprendre les principes de l'Intégration Continue
+  - [x] Comprendre les principes du Déploiement Continu
+  - [x] Identifier les avantages de la CI/CD
+  - [x] Découvrir les principaux outils du marché
 
 - [ ] Découverte de GitHub Actions
   - [ ] Comprendre ce qu'est GitHub Actions
