@@ -3,12 +3,12 @@
 ## Lundi 23/06/2025 :
 
 ### Fondamentaux des Tests et Plan de Test
-- [ ] Comprendre l'importance des tests dans le cycle de vie logiciel.
-- [ ] Découvrir la pyramide des tests (Tests Unitaires, Intégration, E2E).
+- [x] Comprendre l'importance des tests dans le cycle de vie logiciel.
+- [x] Découvrir la pyramide des tests (Tests Unitaires, Intégration, E2E).
 - [ ] Apprendre le vocabulaire essentiel :
-  - [ ] Test Case, Test Suite, Test Runner
-  - [ ] Assertion
-  - [ ] Fixture, Mock, Stub
+  - [x] Test Case, Test Suite, Test Runner
+  - [x] Assertion
+  - [x] Fixture, Mock, Stub
   - [ ] System Under Test (SUT)
 - [ ] Comprendre les bonnes pratiques :
   - [ ] Structure d'un test (Arrange-Act-Assert / Given-When-Then).
