@@ -5,14 +5,14 @@
 ### Fondamentaux des Tests et Plan de Test
 - [x] Comprendre l'importance des tests dans le cycle de vie logiciel.
 - [x] Découvrir la pyramide des tests (Tests Unitaires, Intégration, E2E).
-- [ ] Apprendre le vocabulaire essentiel :
+- [x] Apprendre le vocabulaire essentiel :
   - [x] Test Case, Test Suite, Test Runner
   - [x] Assertion
   - [x] Fixture, Mock, Stub
-  - [ ] System Under Test (SUT)
-- [ ] Comprendre les bonnes pratiques :
-  - [ ] Structure d'un test (Arrange-Act-Assert / Given-When-Then).
-  - [ ] Tests isolés, indépendants et reproductibles.
+  - [x] System Under Test (SUT)
+- [x] Comprendre les bonnes pratiques :
+  - [x] Structure d'un test (Arrange-Act-Assert / Given-When-Then).
+  - [x] Tests isolés, indépendants et reproductibles.
 
 ### Élaborer un Plan de Test (Compétence 9 du Titre Pro)
 - [ ] Comprendre ce qu'est un plan de test et son objectif.
