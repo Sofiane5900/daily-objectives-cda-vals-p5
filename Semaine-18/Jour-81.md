@@ -3,8 +3,8 @@
 ## Mercredi 25/06/2025 :
 
 ### Les Tests d'Intégration
-- [ ] Comprendre l'objectif : vérifier que plusieurs modules (composants, classes) fonctionnent correctement ensemble.
-- [ ] Différencier test d'intégration et test unitaire.
+- [x] Comprendre l'objectif : vérifier que plusieurs modules (composants, classes) fonctionnent correctement ensemble.
+- [x] Différencier test d'intégration et test unitaire.
 - [ ] Comprendre les défis : gestion de la base de données, des services externes, etc.
 
 ### Mise en pratique par technologie
