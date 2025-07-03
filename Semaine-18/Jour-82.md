@@ -12,11 +12,11 @@
     - [x] Services
 	- [x] DTO
 	- [x] Conversion DTO / Entités
-    - [ ] Logique applicative
-  - [ ] Mise en place de la couche présentation
-    - [ ] Contrôleurs
-	- [ ] Interface utilisateur
-    - [ ] Gestion des entrées/sorties
+    - [x] Logique applicative
+  - [x] Mise en place de la couche présentation
+    - [x] Contrôleurs
+	- [x] Interface utilisateur
+    - [x] Gestion des entrées/sorties
 
 - [ ] Implémentation du Pattern MVC
   - [ ] Création des Modèles
