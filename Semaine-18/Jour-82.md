@@ -5,13 +5,13 @@
 ### Architecture N-Tiers et MVC - Mise en Pratique
 
 - [ ] Implémentation d'une Architecture N-Tiers
-  - [ ] Mise en place de la couche données
-    - [ ] Accès aux données / Repository
-    - [ ] Modèles de données / Entités
-  - [ ] Mise en place de la couche métier
-    - [ ] Services
-	- [ ] DTO
-	- [ ] Conversion DTO / Entités
+  - [x] Mise en place de la couche données
+    - [x] Accès aux données / Repository
+    - [x] Modèles de données / Entités
+  - [x] Mise en place de la couche métier
+    - [x] Services
+	- [x] DTO
+	- [x] Conversion DTO / Entités
     - [ ] Logique applicative
   - [ ] Mise en place de la couche présentation
     - [ ] Contrôleurs
